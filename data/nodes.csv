@@ -1,0 +1,23 @@
+id,label,type
+yuna,Yuna Liu,person
+edu_china,BSc Economics (China),education
+edu_sweden,PhD Economics (Sweden),education
+edu_ai,AI & ML Developer Diploma,education
+cert_dp203,Azure Data Engineer Associate,certification
+cert_ai900,Azure AI Fundamentals,certification
+cert_daf,Azure Data Fundamentals,certification
+cert_snowflake,SnowPro Core Certification,certification
+cert_matillion,Matillion Associate,certification
+cert_ml,Databricks ML Associate,certification
+skill_sql,SQL,skill
+skill_python,Python,skill
+skill_powerbi,Power BI,skill
+skill_matillion,Matillion,skill
+skill_azure,AWS / Azure,skill
+skill_snowflake,Snowflake,skill
+skill_streamlit,Streamlit,skill
+skill_ml,Machine Learning,skill
+skill_stats,Statistics,skill
+proj_dashboard,Volvo Cars Sales Dashboard,project
+proj_cell,Volvo Battery Cell Pipeline,project
+proj_collector,Collector Bank ML Project,project
